@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'FuturaBT-Book';
+  src: url('FuturaBT-Book.svg#FuturaBT-Book') format('svg'),
+       url('FuturaBT-Book.ttf') format('truetype'),
+       url('FuturaBT-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'futura-book-bt';
+  src: url('futura-book-bt.eot');
+  src: url('futura-book-bt.eot?#iefix') format('embedded-opentype'),
+       url('futura-book-bt.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
